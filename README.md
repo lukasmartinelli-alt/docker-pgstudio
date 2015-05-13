@@ -1,4 +1,4 @@
-# docker-pgstudio
+# docker-pgstudio [![](https://badge.imagelayers.io/lukasmartinelli/pgstudio.svg)](https://imagelayers.io/?images=lukasmartinelli/pgstudio:latest 'Get your own badge on imagelayers.io')
 
 PostgreSQL Studio wrapped in a neat little Docker container.
 The image is available on [Docker Hub](https://registry.hub.docker.com/u/lukasmartinelli/pgstudio/).
