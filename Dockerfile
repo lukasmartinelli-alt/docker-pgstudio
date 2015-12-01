@@ -1,4 +1,4 @@
-FROM tomcat:8-jre7
+FROM tomcat:8-jre8
 MAINTAINER Lukas Martinelli <me@lukasmartinelli.ch>
 
 WORKDIR $CATALINA_HOME/webapps/
